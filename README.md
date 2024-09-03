@@ -1,8 +1,7 @@
 # sistema-bancario
 ## Sobre
 
-Esse projeto é um dos desafios de código propostos no Bootcamp DIO para programar na linguagem Python
-
+Esse projeto é um dos desafios de código propostos no Bootcamp DIO 
 
 ### Módulo
 
