@@ -1,6 +1,7 @@
-banco = 'Goliath National Bank (GNB)'
+banco = 'TG NACIONAL (TGN)'
 slogan = 'The world leader in credit and banking'
-menu ='''         Seja bem-vindo ao GNB!
+
+menu ='''         Seja bem-vindo ao TGN!
 [S] Sacar
 [D] Depositar
 [E] Consultar extrato
@@ -94,7 +95,7 @@ while True:
         print(f'Saques diários restantes: {qtd_limite_saque}\n')
     
     elif opcao == 'Q':
-        print('      O GNB agradece a preferência!')
+        print('      O TGN agradece a preferência!')
         print()
         break
     
